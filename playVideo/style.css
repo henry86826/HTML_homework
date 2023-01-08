@@ -1,0 +1,7 @@
+video{
+    border: 1px solid black;
+}
+
+input#progressBar{
+    width: 300px;
+}
